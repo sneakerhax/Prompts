@@ -1,2 +1,3 @@
 # Prompts
-AI prompts for Red Teaming
+
+Red Team AI prompts
