@@ -13,7 +13,7 @@ import sys
 import argparse
 from openai import OpenAI
 
-DEFAULT_SYSTEM = "You're a senior red teamer performing recon. Answer with a single command"
+DEFAULT_SYSTEM = "You're a senior red teamer. Answer with a single command"
 ENDPOINT = "https://models.github.ai/inference"
 MODEL = "openai/gpt-4.1-nano"
 
