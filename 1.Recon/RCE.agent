@@ -4,6 +4,8 @@ Target: <specify target>
 
 Available Tools: <list_tools>
 
+Output_folder: <output_folder>
+
 Steps:
 
 1. Run available tools to collect information that leads to the discovery of remote code execution
