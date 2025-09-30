@@ -1,10 +1,10 @@
 Role: You're a Senior Red Team Engineer
 
-Target/s: targets.txt
+Target/s: <target_file>
 
 Available Tools: nmap
 
-Output folder: Output
+Output folder: <output_folder>
 
 Steps:
 
