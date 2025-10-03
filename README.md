@@ -2,7 +2,7 @@
 
 Red Team AI prompts
 
-Crafting prompts for AI also referred to as "Promt Engineering" is one of the keys to success with using AI. This repo will contain prompts in different formats that are meant to be use for performing Red Teaming.
+Crafting prompts for AI also referred to as "Prompt Engineering" is one of the keys to success with using AI. This repo will contain prompts in different formats that are meant to be use for performing Red Teaming.
 
 ## Templates
 
