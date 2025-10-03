@@ -2,11 +2,11 @@
 
 Red Team AI prompts
 
-Crafting prompts for AI also referred to as "Prompt Engineering" is one of the keys to success with using AI. This repo will contain prompts in different formats that are meant to be use for performing Red Teaming.
+Crafting prompts for AI also referred to as "Prompt Engineering" is one of the keys to success with using AI. This repo will contain prompts in different formats that are meant to be used for performing Red Teaming.
 
 ## Templates
 
-* .prompt.yml Github models files
+* .prompt.yml GitHub models files
 * .agent Prompts for AI agents
 
 ## Basic usage
@@ -69,10 +69,10 @@ EXPORT GITHUB_TOKEN=<github_PAT_token>
 
 ```
 
-Add the Github PAT token to your environment variables. Personal Access Token must have models scope (See Resources for more info)
+Add the GitHub PAT token to your environment variables. Personal Access Token must have models scope (See Resources for more info)
 
 ```zsh
-python gh_models_cli.py "Create scan that checks for the top 10 open kubernetes ports"
+python gh_models_cli.py "Create scan that checks for the top 10 open Kubernetes ports"
 nmap -p 6443,443,2379,2380,10250,10255,10257,10259,30000-32767 --open -sV TARGET_IP
 ```
 
