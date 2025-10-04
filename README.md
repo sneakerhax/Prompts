@@ -4,18 +4,21 @@ Red Team AI prompts
 
 Crafting prompts for AI also referred to as "Prompt Engineering" is one of the keys to success with using AI. This repo will contain prompts in different formats that are meant to be used for performing Red Teaming.
 
-## Templates
-
-* .prompt.yml GitHub models files
-* .agent Prompts for AI agents
-
 ## Basic usage
+
+There're 3 different types of usage
+
+### Prompt files
 
 *.prompt.yml files can be used with the models tab. 
 
 See Resources for more details
 
+### Agent files
+
 The content of *.agent files can be pasted into any AI agent
+
+### CLI tool
 
 Or use the cli (see install and usage below)
 
